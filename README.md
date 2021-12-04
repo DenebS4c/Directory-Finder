@@ -3,7 +3,7 @@ Directory Finder in Java
 
 # __📷 Photos__
 
-![image](https://ghosty.life-is-pa.in/5hlstUPlg)
+![image](https://cdn.discordapp.com/attachments/797844891442085892/916479576673243236/5hlstUPlg.png)
 
 ****
 # __📖 Dictionary__
